@@ -1,0 +1,5 @@
+body {background-color:#fff;}
+.search {display:inline-block; width:368px; height:40px; clear:both;  border:2px solid #39f; border-radius:3px;}
+.search #stext {float:left; border:0; width:311px; padding:0 0 3px 12px; height:37px; font:16px/35px '맑은 고딕',Malgun Gothic,'돋움',Dotum,sans-serif; letter-spacing:-1px;}
+.search #stext:focus {outline:none}
+.search #common_search_btn {overflow:hidden; float:left; width:45px; height:40px; background:#fff url(http://i.jobkorea.kr/content/images/ver_1/sch/sch_spr.png) no-repeat -85px -23px; border:none; white-space:nowrap; cursor:pointer; text-indent:-9999em;}
